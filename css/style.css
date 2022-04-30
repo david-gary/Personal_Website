@@ -58,7 +58,7 @@ a{
     display: inline-block;
     position: fixed;
     left: 3%;
-    top: 50px;
+    top: 25px;
     z-index: 0;
 }
 .scroll-menu .scroll-links{ 
@@ -139,7 +139,7 @@ a{
 }
 .content{
     width: 65%;
-    margin: 50px auto;
+    margin: 25x auto;
 }
 .item{
     margin-bottom: 30px;
